@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "notes_stable_diffusion"
+  site-url: "https://pankaj-kvhld.github.io/notes_stable_diffusion"
+  description: "My notes of FastAI stable diffusion 2022 course."
+  repo-branch: main
+  repo-url: "https://github.com/pankaj-kvhld/notes_stable_diffusion"
